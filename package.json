@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A library to use indexed textures for animation in three.js",
   "engines": {
-    "node": "10.x"
+    "node": "12.x"
   },
   "main": "app.js",
   "directories": {
